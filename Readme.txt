@@ -5,32 +5,21 @@ Heart2Heart is a web-based Blood Bank & Donor Management System developed using 
 🚀 Features:
 
 Donor registration & management
-
 Search donors by blood group and location
-
 Blood request and inventory management
-
 Admin dashboard with user and request controls
-
 Email notifications via Gmail SMTP
-
 Secure login for admin and donors
-
 Request and donation history tracking
 
 ---
 🛠️ Technologies Used:
 
 Frontend: HTML, CSS, Bootstrap
-
 Backend: PHP
-
 Database: MySQL
-
 Web Server: Apache (XAMPP/WAMP/LAMP)
-
 Email Service: Gmail SMTP via PHPMailer
-
 
 ---
 📦How to Run the Project
