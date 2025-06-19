@@ -38,13 +38,6 @@ BBDMS-Project-PHP-V2.4/
 ├── blood-request.php                                                                                                                                                                                                                                                                                            
 └── README.md                                                                                                                                                       
 
-## 🛠️ Tech Stack
-
-- **Frontend:** HTML, CSS, Bootstrap
-- **Backend:** PHP 7+
-- **Database:** MySQL
-- **Email:** Gmail API (OAuth 2.0)
-- **Composer** for dependency management
 
 ## 🔐 Gmail API Setup
 
