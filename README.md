@@ -31,10 +31,10 @@ BBDMS-Project-PHP-V2.4/
 │ ├── index.php                                                                                                                                                                                                      
 ├── css/                                                                                                                                                                                                             
 │ └── style.css                                                                                                                                                                                                      
-├── js/
-│ └── script.js
-├── vendor/
-│ └── (Composer dependencies including Google API client)
+├── js/                                                                                                                                                             
+│ └── script.js                                                                                                                                                     
+├── vendor/                                                                                                                                                         
+│ └── (Composer dependencies including Google API client)                                                                                                          
 ├── blood-request.php
 └── README.md
 
