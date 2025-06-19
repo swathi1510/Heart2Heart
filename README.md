@@ -15,9 +15,9 @@ Heart2Heart is a web-based Blood Bank & Donor Management System developed using 
  Mobile number and email validations
 
  ## 📂 Project Structure
- BBDMS-Project-PHP-V2.4/
+BBDMS-Project-PHP-V2.4/
 ├── bbdms/
-│ ├── admin/
+│ ├── admin/                                                                                                                                                                                                     
 │ │ ├── blood-requests.php
 │ │ ├── notify-donor.php
 │ │ ├── get-token.php
