@@ -15,22 +15,22 @@ Heart2Heart is a web-based Blood Bank & Donor Management System developed using 
  Mobile number and email validations
 
  ## 📂 Project Structure
-BBDMS-Project-PHP-V2.4/
-├── bbdms/
+BBDMS-Project-PHP-V2.4/                                                                                                                                                                                            
+├── bbdms/                                                                                                                                                                                                          
 │ ├── admin/                                                                                                                                                                                                     
-│ │ ├── blood-requests.php
-│ │ ├── notify-donor.php
-│ │ ├── get-token.php
-│ │ ├── send_email.php
-│ │ ├── token.json
-│ │ └── credentials.json
-│ ├── includes/
-│ │ ├── config.php
-│ │ ├── header.php
-│ │ └── leftbar.php
-│ ├── index.php
-├── css/
-│ └── style.css
+│ │ ├── blood-requests.php                                                                                                                                                                                           
+│ │ ├── notify-donor.php                                                                                                                                                                                             
+│ │ ├── get-token.php                                                                                                                                                                                               
+│ │ ├── send_email.php                                                                                                                                                                                               
+│ │ ├── token.json                                                                                                                                                                                                  
+│ │ └── credentials.json                                                                                                                                                                                             
+│ ├── includes/                                                                                                                                                                                                      
+│ │ ├── config.php                                                                                                                                                                                                   
+│ │ ├── header.php                                                                                                                                                                                                   
+│ │ └── leftbar.php                                                                                                                                                                                                  
+│ ├── index.php                                                                                                                                                                                                      
+├── css/                                                                                                                                                                                                             
+│ └── style.css                                                                                                                                                                                                      
 ├── js/
 │ └── script.js
 ├── vendor/
